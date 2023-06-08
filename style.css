@@ -1,0 +1,47 @@
+h1,
+h2,
+h3,
+p,
+ul,
+ol {
+    font-family: Arial, "Times New Roman", sans-serif;
+}
+
+h1 {
+    color: white;
+    background-color: navy;
+    font-weight: bold;
+}
+
+h2 {
+    color: yellow;
+    background-color: black;
+    font-size: 26px;
+}
+
+h3 {
+    color: navy;
+    font-size: 22px;
+}
+
+p {
+    color: navy;
+    font-size: 22px;
+}
+
+ul,
+ol {
+    color: black;
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+#return {
+    text-align: center;
+    font-size: 26px;
+    color: black;
+}
