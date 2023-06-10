@@ -7,15 +7,19 @@ ol {
     font-family: Arial, "Times New Roman", sans-serif;
 }
 
+div {
+    width: 800px;
+    margin: 16px auto;
+}
+
 h1 {
-    color: white;
-    background-color: navy;
+    color: black;
     font-weight: bold;
+    padding: 8px;
 }
 
 h2 {
-    color: yellow;
-    background-color: black;
+    color: black;
     font-size: 26px;
 }
 
@@ -32,7 +36,7 @@ p {
 ul,
 ol {
     color: black;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 img {
@@ -44,4 +48,5 @@ img {
     text-align: center;
     font-size: 26px;
     color: black;
+    padding: 8px;
 }
